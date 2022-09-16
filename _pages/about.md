@@ -56,19 +56,28 @@ Education
 
 Affiliations
 ======
-• Reviewer, IEEE Power & Energy Society (Dec. 2021 - current)
-• Reviewer, IEEE Access (Mar. 2021 - current)
-• Reviewer, IEEE Systems Journal (June 2021 - current)
-• Reviewer, IEEE Transactions on Sustainable Energy (Feb. 2021 - current)
-• Reviewer, Sustainable Computing: Informatics and Systems (SUSCOM) (Feb. 2021 - current)
-• Graduate Student Member, IEEE/ IEEE PES (Mar. 2020 - current)
-• Student Member, IEEE (Sep. 2019 - Mar. 2020 )
+1. Reviewer, IEEE Power & Energy Society (Dec. 2021 - current)
+1. Reviewer, IEEE Access (Mar. 2021 - current)
+1. Reviewer, IEEE Systems Journal (June 2021 - current)
+1. Reviewer, IEEE Transactions on Sustainable Energy (Feb. 2021 - current)
+1. Reviewer, Sustainable Computing: Informatics and Systems (SUSCOM) (Feb. 2021 - current)
+1. Graduate Student Member, IEEE/ IEEE PES (Mar. 2020 - current)
+1. Student Member, IEEE (Sep. 2019 - Mar. 2020 )
+
+Professional Development and Leadership Experience
+======
+1. Event Manager, Child Education Nepal (CEN) UK, Nepal (May 2018)
+⋆ Coordinated an eight-person team to help underprivileged children in western Nepal, which included school upgrades and the establishment of an e-library that serviced 400 students in the community
+1. Graduate Teaching Assistant, SDSU, SD, USA (Aug. 2019 - May 2020)
+⋆ Supervised lab works on Basic Electrical Engineering and Electronics-II, graded lab reports and assignments
+1. Discovery Center Science Communication Fellow, SD EPSCoR, SD, USA (Apr. 2021)
+⋆ Developed a hands-on experiment on PV systems and demonstrated to a general audience at Discovery Center
 
 
 
 For more info
 ======
-For additional information checkout my affiliations, professional development and leadership experience, publications, posters, and project page. 
+For additional information checkout my publications, posters, and project page. 
 
 Any suggestion or feedback, feel free to contact me. This site is still in progress so not all infromation is in place.
 
