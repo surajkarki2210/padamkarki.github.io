@@ -37,41 +37,41 @@ Experience
 
 Key Skills
 ======
-1. Programming/scripting language: Python, MATLAB, R, C++
-1. Library/API: Numpy, Scipy, Pandas, Matplotlib, Seaborn, CasADi, OpenMP, MPI, CUDA
-1. Software/Tools: Simulink, OPAL-RT, HELICS, PSS/E, Git, LaTeX, MATPOWER, GridLAB-D, OpenDSS,
-RT-LAB, PSIM, LTSPICE, PowerWorld
+* Programming/scripting language: Python, MATLAB, R, C++
+* Library/API: Numpy, Scipy, Pandas, Matplotlib, Seaborn, CasADi, OpenMP, MPI, CUDA
+* Software/Tools: Simulink, OPAL-RT, HELICS, PSS/E, Git, LaTeX, MATPOWER, GridLAB-D, OpenDSS, RT-LAB, PSIM, LTSPICE, PowerWorld
 
 Education
 ======
-• Ph.D. in Electrical Engineering (GPA: 4/4), SDSU, USA (Expected Graduation: May, 2023)
-⋆ Advisor: Dr. Timothy M. Hansen, Associate Professor, SDSU
-⋆ Dissertation Topic: Computationally efficient statistical modeling of inverter with grid support functions to access the dynamic response of converter dominated power system
-⋆ Relevant Coursework: Advanced Power Electronics, Advanced Power Systems, High-Performance Computing, Applied Bayesian Statistics, Statistical Methods II, Modern Applied Statistics II
+* Ph.D. in Electrical Engineering (GPA: 4/4), SDSU, USA (Expected Graduation: May, 2023)
+* Advisor: Dr. Timothy M. Hansen, Associate Professor, SDSU
+* Dissertation Topic: Computationally efficient statistical modeling of inverter with grid support functions to access the dynamic response of converter dominated power system
+* Relevant Coursework: Advanced Power Electronics, Advanced Power Systems, High-Performance Computing, Applied Bayesian Statistics, Statistical Methods II, Modern Applied Statistics II
 
-
-• BE in Electrical Engineering, Tribhuvan University, Nepal (2014 - 2018)
-⋆ Relevant Coursework: Power System Analysis, Control Systems and Theory, Transmission and Distribution Design, Power Electronics, Switchgear and Protection, FACT devices, High Voltage Engineering
-⋆ Thesis Title: Hardware Fabrication of Smart Energy Meter for Demand Side Managemen
+* BE in Electrical Engineering, Tribhuvan University, Nepal (2014 - 2018)
+* Relevant Coursework: Power System Analysis, Control Systems and Theory, Transmission and Distribution Design, Power Electronics, Switchgear and Protection, FACT devices, High Voltage Engineering
+* Thesis Title: Hardware Fabrication of Smart Energy Meter for Demand Side Managemen
 
 Affiliations
 ======
-1. Reviewer, IEEE Power & Energy Society (Dec. 2021 - current)
-1. Reviewer, IEEE Access (Mar. 2021 - current)
-1. Reviewer, IEEE Systems Journal (June 2021 - current)
-1. Reviewer, IEEE Transactions on Sustainable Energy (Feb. 2021 - current)
-1. Reviewer, Sustainable Computing: Informatics and Systems (SUSCOM) (Feb. 2021 - current)
-1. Graduate Student Member, IEEE/ IEEE PES (Mar. 2020 - current)
-1. Student Member, IEEE (Sep. 2019 - Mar. 2020 )
+* Reviewer, IEEE Power & Energy Society (Dec. 2021 - current)
+* Reviewer, IEEE Access (Mar. 2021 - current)
+* Reviewer, IEEE Systems Journal (June 2021 - current)
+* Reviewer, IEEE Transactions on Sustainable Energy (Feb. 2021 - current)
+* Reviewer, Sustainable Computing: Informatics and Systems (SUSCOM) (Feb. 2021 - current)
+* Graduate Student Member, IEEE/ IEEE PES (Mar. 2020 - current)
+* Student Member, IEEE (Sep. 2019 - Mar. 2020 )
 
 Professional Development and Leadership Experience
 ======
-1. Event Manager, Child Education Nepal (CEN) UK, Nepal (May 2018)
-⋆ Coordinated an eight-person team to help underprivileged children in western Nepal, which included school upgrades and the establishment of an e-library that serviced 400 students in the community
-1. Graduate Teaching Assistant, SDSU, SD, USA (Aug. 2019 - May 2020)
-⋆ Supervised lab works on Basic Electrical Engineering and Electronics-II, graded lab reports and assignments
-1. Discovery Center Science Communication Fellow, SD EPSCoR, SD, USA (Apr. 2021)
-⋆ Developed a hands-on experiment on PV systems and demonstrated to a general audience at Discovery Center
+* Event Manager, Child Education Nepal (CEN) UK, Nepal (May 2018)
+  * Coordinated an eight-person team to help underprivileged children in western Nepal, which included school upgrades and the establishment of an e-library that serviced 400 students in the community
+  
+* Graduate Teaching Assistant, SDSU, SD, USA (Aug. 2019 - May 2020)
+  * Supervised lab works on Basic Electrical Engineering and Electronics-II, graded lab reports and assignments
+  
+* Discovery Center Science Communication Fellow, SD EPSCoR, SD, USA (Apr. 2021)
+  * Developed a hands-on experiment on PV systems and demonstrated to a general audience at Discovery Center
 
 
 
