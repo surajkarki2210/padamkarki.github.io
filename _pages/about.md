@@ -44,13 +44,13 @@ Key Skills
 Education
 ======
 * Ph.D. in Electrical Engineering (GPA: 4/4), SDSU, USA (Expected Graduation: May, 2023)
-* Advisor: Dr. Timothy M. Hansen, Associate Professor, SDSU
-* Dissertation Topic: Computationally efficient statistical modeling of inverter with grid support functions to access the dynamic response of converter dominated power system
-* Relevant Coursework: Advanced Power Electronics, Advanced Power Systems, High-Performance Computing, Applied Bayesian Statistics, Statistical Methods II, Modern Applied Statistics II
+  * Advisor: Dr. Timothy M. Hansen, Associate Professor, SDSU
+  * Dissertation Topic: Computationally efficient statistical modeling of inverter with grid support functions to access the dynamic response of converter dominated power system
+  * Relevant Coursework: Advanced Power Electronics, Advanced Power Systems, High-Performance Computing, Applied Bayesian Statistics, Statistical Methods II, Modern Applied Statistics II
 
 * BE in Electrical Engineering, Tribhuvan University, Nepal (2014 - 2018)
-* Relevant Coursework: Power System Analysis, Control Systems and Theory, Transmission and Distribution Design, Power Electronics, Switchgear and Protection, FACT devices, High Voltage Engineering
-* Thesis Title: Hardware Fabrication of Smart Energy Meter for Demand Side Managemen
+  * Relevant Coursework: Power System Analysis, Control Systems and Theory, Transmission and Distribution Design, Power Electronics, Switchgear and Protection, FACT devices, High Voltage Engineering
+  * Thesis Title: Hardware Fabrication of Smart Energy Meter for Demand Side Managemen
 
 Affiliations
 ======
