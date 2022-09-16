@@ -8,10 +8,7 @@ author_profile: true
 
 Remarks
 ======
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{[author.googlescholar](https://scholar.google.com/citations?user=9xWMbXoAAAAJ&hl=en&oi=ao)}}">my Google Scholar profile</a>.</u>
-{% endif %}
+You can also find my articles on [author.googlescholar](https://scholar.google.com/citations?user=9xWMbXoAAAAJ&hl=en&oi=ao).
 
 Journals
 ======
