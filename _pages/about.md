@@ -35,7 +35,7 @@ Key Skills
 
 For more info
 ======
-Checkout othere tabs on the top of the page. 
+Checkout othere tabs from the top of the page. 
 
 Any suggestion or feedback, feel free to contact me. This site is still in progress so not all infromation is in place.
 
