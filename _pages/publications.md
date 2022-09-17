@@ -8,7 +8,7 @@ author_profile: true
 
 Remarks
 ======
-You can also find my articles on [author.googlescholar](https://scholar.google.com/citations?user=9xWMbXoAAAAJ&hl=en&oi=ao).
+You can also find my articles on [googlescholar](https://scholar.google.com/citations?user=9xWMbXoAAAAJ&hl=en&oi=ao).
 
 Journals
 ======
