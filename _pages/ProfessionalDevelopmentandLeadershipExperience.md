@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Professional Development and Leadership Experience"
+title: "Professional Development"
 permalink: /ProfessionalDevelopmentandLeadershipExperience/
 author_profile: true
 ---
