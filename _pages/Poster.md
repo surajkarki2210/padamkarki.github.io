@@ -8,7 +8,7 @@ author_profile: true
 
 Remarks
 ======
-You can also find my articles on [googlescholar](https://scholar.google.com/citations?user=9xWMbXoAAAAJ&hl=en&oi=ao) and on[researchgate](https://www.researchgate.net/profile/Sunil-Subedi?ev=hdr_xprf).
+You can also find my articles on [googlescholar](https://scholar.google.com/citations?user=9xWMbXoAAAAJ&hl=en&oi=ao) and on [researchgate](https://www.researchgate.net/profile/Sunil-Subedi?ev=hdr_xprf).
 
 Posters
 ======
