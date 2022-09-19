@@ -11,9 +11,9 @@ title                    : "Sunil Subedi"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://sunilsubedi.github.io
+url                      : https://Tsokneelsbd.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Tsokneelsbd/sunilsubedi.github.io"
+repository               : "Tsokneelsbd/Tsokneelsbd.github.io"
 teaser                   : "profile.jpeg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
