@@ -13,7 +13,7 @@ name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://Tsokneelsbd.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Tsokneelsbd/Tsokneelsbd.github.io"
+repository               : "Tsokneelsbd/sunilsubedi.github.io"
 # teaser                   : "profile.jpeg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
