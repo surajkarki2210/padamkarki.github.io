@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://Tsokneelsbd.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Tsokneelsbd/Tsokneelsbd.github.io"
-teaser                   : "profile.jpeg"
+# teaser                   : "profile.jpeg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
