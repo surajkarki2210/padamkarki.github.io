@@ -11,7 +11,7 @@ title                    : "Sunil Subedi"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://Tsokneelsbd.github.io
+url                      : https://sunilsubedi.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Tsokneelsbd/sunilsubedi.github.io"
 # teaser                   : "profile.jpeg"
