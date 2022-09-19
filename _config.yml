@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://sunilsubedi.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Tsokneelsbd/sunilsubedi.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "profile.jpeg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sunil Subedi"
-  avatar           : "profile.jfif"
+  avatar           : "profile.jpeg"
   bio              : "Ph.D. Candidate in Electrical Engineering at South Dakota State University."
   location         : "Brookings, South Dakota"
   employer         : "South Dakota State University"
