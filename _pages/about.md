@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. candidate in the Deparment of Electrical Engineering at [South Dakota State University](https://www.sdstate.edu/) working under the supervision of [Dr.Timothy M. Hansen](https://www.sdstate.edu/directory/tim-hansen). I'm working as a graduate research and I have worked as teaching assistant during my Ph.D. program.
+I'm a Ph.D. candidate in the Deparment of Electrical Engineering at [South Dakota State University](https://www.sdstate.edu/) working under the supervision of [Dr.Timothy M. Hansen](https://www.sdstate.edu/directory/tim-hansen). I'm working as a graduate research assistanr and I have worked as teaching assistant during my Ph.D. program. Currently I am working as an intern at National Renewable Energy Laboratory.
 
 My research focuses on the analysis, design, and control of power electronic converters, and dynamic modeling and simulation of converter-dominated power systems. I have demonstrated my experience on using various programming language and exposure to the power systems modeling and simulation tools.
 
