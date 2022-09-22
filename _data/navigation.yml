@@ -17,7 +17,7 @@ main:
     url: /Poster/
         
   - title: "Projects"
-    url: /year-archive/
+    url: /posts/
     
   - title: "CV"
     url: /CV/
