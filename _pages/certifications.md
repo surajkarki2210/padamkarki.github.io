@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Certifications"
-permalink: /publications/
+permalink: /certifications/
 author_profile: true
 ---
 
