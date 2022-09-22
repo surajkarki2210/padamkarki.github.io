@@ -19,5 +19,8 @@ main:
   - title: "Projects"
     url: /posts/
     
+  - title: "Certification"
+    url: /certification/
+    
   - title: "CV"
-    url: /CV/
+    url: /cv/
