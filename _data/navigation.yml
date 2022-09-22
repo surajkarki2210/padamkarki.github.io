@@ -15,15 +15,9 @@ main:
     
   - title: "Posters"
     url: /Poster/
- 
-
- 
-
         
   - title: "Projects"
     url: /year-archive/
     
-
-    
-#   - title: "Guide"
-#     url: /markdown/
+  - title: "CV"
+    url: /CV/
