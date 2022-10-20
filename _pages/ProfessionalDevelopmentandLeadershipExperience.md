@@ -15,6 +15,12 @@ author_profile: true
 
 * Event Manager, Child Education Nepal (CEN) UK, Nepal (May 2018)
   * Coordinated an eight-person team to help underprivileged children in western Nepal, which included school upgrades and the establishment of an e-library that serviced 400 students in the community
+
+
+Volunteering
+======
+
+* Event Assistant, GridFWD 2022, Empower Field, Denver, CO (October 24-26)
   
 
 
