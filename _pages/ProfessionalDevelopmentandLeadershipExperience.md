@@ -21,6 +21,14 @@ Volunteering
 ======
 
 * Event Assistant, GridFWD 2022, Empower Field, Denver, CO (October 24-26)
-  
+ 
+ 
+Story Covers
+======
 
+* Engineering Research Review 2021 : Featured in the cover of yearly engineering research review magazine https://openprairie.sdstate.edu/eng_research/11/
+
+Recommended Citation
+Engineering Research, Office of, "Engineering Research Review 2021" (2021). Engineering Research Review. 11.
+https://openprairie.sdstate.edu/eng_research/11
 
