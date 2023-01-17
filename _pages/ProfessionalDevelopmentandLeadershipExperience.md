@@ -26,7 +26,7 @@ Volunteering
 Story Covers
 ======
 
-* Engineering Research Review 2021 : Featured in the cover of yearly engineering research review magazine https://openprairie.sdstate.edu/eng_research/11/
+* Engineering Research Review 2021 : Featured in the cover of yearly engineering research review magazine.
 
 Recommended Citation
 Engineering Research, Office of, "Engineering Research Review 2021" (2021). Engineering Research Review. 11.
