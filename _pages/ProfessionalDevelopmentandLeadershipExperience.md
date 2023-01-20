@@ -34,9 +34,9 @@ https://openprairie.sdstate.edu/eng_research/11
 
 * SDSU News : Ph.D. candidate reflects on National Renewable Energy Laboratory internship
 
-https://www.sdstate.edu/news/2023/01/phd-candidate-reflects-national-renewable-energy-laboratory-internship
+Link [here](https://www.sdstate.edu/news/2023/01/phd-candidate-reflects-national-renewable-energy-laboratory-internship)
 
 
 * STEM Professionals: Science Communication Workshops
 
-https://www.sd-discovery.org/stem_professionals.php
+Link [here](https://www.sd-discovery.org/stem_professionals.php)
