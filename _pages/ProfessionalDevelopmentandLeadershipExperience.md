@@ -29,14 +29,14 @@ Story/News and Covers
 
 Recommended Citation
 Engineering Research, Office of, "Engineering Research Review 2021" (2021). Engineering Research Review. 11.
-Link [Engineering Research Review 2021](https://openprairie.sdstate.edu/eng_research/11)
+Link: [Engineering Research Review 2021](https://openprairie.sdstate.edu/eng_research/11)
 
 
 * SDSU News : Ph.D. candidate reflects on National Renewable Energy Laboratory internship
 
-Link [Ph.D. candidate reflects on National Renewable Energy Laboratory internship](https://www.sdstate.edu/news/2023/01/phd-candidate-reflects-national-renewable-energy-laboratory-internship)
+Link: [Ph.D. candidate reflects on National Renewable Energy Laboratory internship](https://www.sdstate.edu/news/2023/01/phd-candidate-reflects-national-renewable-energy-laboratory-internship)
 
 
 * STEM Professionals: Science Communication Workshops
 
-Link [STEM Professionals](https://www.sd-discovery.org/stem_professionals.php)
+Link: [STEM Professionals](https://www.sd-discovery.org/stem_professionals.php)
