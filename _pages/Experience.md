@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 * Graduate Research Assistant, SDSU, USA (Aug. 2021 - present)
-   •	Worked on geospatial data analysis and meaningful visualization using complex multi-dimensional scientific data from Earth observing satellites viz; Landsat,           Sentinel, and Hyperion [Python, MATLAB, ArcGIS]
-   •	Worked on the trend analysis of imagery data over Pseudo Invariant Calibration Sites collected  from Earth observing satellites for radiometric calibration             [Python, MATLAB]
+   * 	Worked on geospatial data analysis and meaningful visualization using complex multi-dimensional scientific data from Earth observing satellites viz; Landsat,           Sentinel, and Hyperion [Python, MATLAB, ArcGIS]
+   * 	Worked on the trend analysis of imagery data over Pseudo Invariant Calibration Sites collected  from Earth observing satellites for radiometric calibration             [Python, MATLAB]
    •	Scientific data analysis using multi-sensor satellite imagery data to develop top of atmosphere reflectance harmonization algorithm  [MATLAB]
    •	Comparison of ARIMA model, SARIMA model, Harmonic model, GARCH model, against the machine learning models for the maximum temperature prediction using the             collected real field data from Britton, SD  [Python, R]
    •	Developed and automated method to predict the value of harvest from population cultivation of a single  using supervised and semi-supervised machine learning           techniques [Python, R]
