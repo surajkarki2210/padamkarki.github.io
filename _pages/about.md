@@ -8,28 +8,31 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. candidate in the Deparment of Electrical Engineering at [South Dakota State University](https://www.sdstate.edu/) working under the supervision of [Dr.Timothy M. Hansen](https://www.sdstate.edu/directory/tim-hansen). I'm working as a graduate research assistanr and I have worked as teaching assistant during my Ph.D. program. Currently I am working as an intern at National Renewable Energy Laboratory.
+I'm a M.S. candidate in the Deparment of Electrical Engineering at [South Dakota State University](https://www.sdstate.edu/) working under the supervision of [Mr. Larry Leigh](https://www.sdstate.edu/directory/larry-leigh) and [Mrs. Morakot Kaewmanee](https://www.sdstate.edu/directory/morakot-kaewmanee) . I'm working as a  graduate research assistant in [Image Processing Laboratory](https://www.sdstate.edu/electrical-engineering-and-computer-science/image-processing-lab) at SDSU. 
 
-My research focuses on the analysis, design, and control of power electronic converters, and dynamic modeling and simulation of converter-dominated power systems. I have demonstrated my experience on using various programming language and exposure to the power systems modeling and simulation tools.
+My research focuses on scientific data analysis and big data management, innovative data visualizations, machine learning, optical radiometric and geometric calibration, cloud based scientific computing, satellite sensors testing, spatial calibration and characterization, optical remote sensing, operational satellite monitoring, and multispectral and hyperspectral satellite missions using Google cloud platform and Amazon web services.
 
 
 Education
 ======
-* Ph.D. in Electrical Engineering (GPA: 4/4), SDSU, USA (Expected Graduation: May, 2023)
-  * Advisor: Dr. Timothy M. Hansen, Associate Professor, SDSU
-  * Dissertation Topic: Computationally efficient statistical modeling of inverter with grid support functions to access the dynamic response of converter dominated power system
-  * Relevant Coursework: Advanced Power Electronics, Advanced Power Systems, High-Performance Computing, Applied Bayesian Statistics, Statistical Methods II, Modern Applied Statistics II
+* M.S. in Electrical Engineering, SDSU, USA (Expected Graduation: May, 2023)
+  * Advisor: Mr. Larry Leigh, Director of Image Processing Lab, Ms. Morakot Kaewmane, Researcher at SDSU
+  * Thesis Topic: The Development of Dark Hyperspectral Absolute Calibration Model Using Extended Pseudo Invariant Calibration Site at a Global Scale: Dark EPICS-                       Global
+  * Relevant Coursework: Digital Image Processing, Optical Sensors, Advance Image Processing, Statistical Programming, Remote Sensing Engineering, Statistical Methods,                          Time Series Analysis
 
-* BE in Electrical Engineering, Tribhuvan University, Nepal (2014 - 2018)
-  * Relevant Coursework: Power System Analysis, Control Systems and Theory, Transmission and Distribution Design, Power Electronics, Switchgear and Protection, FACT devices, High Voltage Engineering
-  * Thesis Title: Hardware Fabrication of Smart Energy Meter for Demand Side Managemen
-
-
+* BE in Electrical Engineering, Pokhara University, Nepal (2013 - 2017)
+  * Relevant Coursework: Power System Analysis, Transmission and Distribution Design, Power Electronics, Switchgear and protection, FACT devices, High Voltage                                  Engineering, Control System and Theory
+  * Thesis Title: Advanced Remote controlled Switch Board
+  
+* Diploma in Electronics Engineering, Tribhuvan University, Nepal (2009 - 2012)
+  * Relevant Coursework: Digital Electronics, Digital Communication System, Microprocessor 8085, Microprocessor 8086
+  * Thesis Title: Automatic Night Lamp with Morning Alarm 
+  
 Key Skills
 ======
-* Programming/scripting language: Python, MATLAB, R, C++
-* Library/API: Numpy, Scipy, Pandas, Matplotlib, Seaborn, CasADi, OpenMP, MPI, CUDA
-* Software/Tools: Simulink, OPAL-RT, HELICS, PSS/E, Git, LaTeX, MATPOWER, GridLAB-D, OpenDSS, RT-LAB, PSIM, LTSPICE, PowerWorld
+* Programming/scripting language: Python, MATLAB, R, C, C++, SQL, Java, SAS
+* Library/API: Matplotlib, Seaborn, Numpy, Scipy, Pandas, Scikit, GDAL, Rasterio, Shapely, TensorFlow, PynlControl, PyTorch, Bokeh
+* Software/Tools: MATLAB/Simulink, ArcGIS, QGIS, ENVI, SeaDAS, TerraSolid, Git, GitLab, Azure, LaTeX, AutoCAD, Allen Bradley - Rockwell Automation Software, Flexisoft HMI design, Proteus, HOMER, High Performance  Computing Platforms (Roaring Thunder Cluster at SDSU), PSCAD, CYME, Power World Simulator
 
 
 
