@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sunil Subedi"
+title                    : "Padam Bahadur Karki"
 title_separator          : "-"
-name                     : &name "Sunil Subedi"
-description              : &description "Ph.D. Candiate in Electrical Engineering"
-url                      : https://Tsokneelsbd.github.io
+name                     : &name "Padam Bahadur Karki"
+description              : &description "M.S. Student in Electrical Engineering"
+url                      : https://padamkarki.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Tsokneelsbd/Tsokneelsbd.github.io"
+repository               : "padamkarki/padamkarki.github.io"
 # teaser                   : "profile.jpeg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sunil Subedi"
+  name             : "Padam Bahadur Karki"
   avatar           : "profile.jfif"
-  bio              : "Ph.D. Candidate in Electrical Engineering at South Dakota State University."
+  bio              : "M.S Student in Electrical Engineering at South Dakota State University."
   location         : "Brookings, South Dakota"
   employer         : "South Dakota State University"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=9xWMbXoAAAAJ&hl=en&oi=ao"
-  email            : "sunil.subedi@jacks.sdstate.edu"
-  researchgate     : "https://www.researchgate.net/profile/Sunil-Subedi"
+  email            : "padam.karki@jacks.sdstate.edu"
   uri              :
   bitbucket        :
   codepen          :
