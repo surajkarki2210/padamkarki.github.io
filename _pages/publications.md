@@ -6,13 +6,6 @@ author_profile: true
 ---
 
 
-Remarks
-======
-# You can also find my articles on [googlescholar] (https://scholar.google.com/citations?user=9xWMbXoAAAAJ&hl=en&oi=ao) and on [researchgate]#(https://www.researchgate.net/profile/Sunil-Subedi?ev=hdr_xprf).
-
-# Technical Report
-======
-# 1. Y. Son, S. Subedi, M. Blonsky, and B. Mather, "Hardware Implementation and Grid Impacts of Grid-supportive Functions in End-use Loads," NREL (Under Prepration) 
 
 Journals
 ======
