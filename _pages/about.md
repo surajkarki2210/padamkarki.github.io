@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a M.S. candidate in the Deparment of Electrical Engineering at [South Dakota State University](https://www.sdstate.edu/) working under the supervision of [Mr. Larry Leigh](https://www.sdstate.edu/directory/larry-leigh) and [Mrs. Morakot Kaewmanee](https://www.sdstate.edu/directory/morakot-kaewmanee) . I'm working as a  graduate research assistant in [Image Processing Laboratory](https://www.sdstate.edu/electrical-engineering-and-computer-science/image-processing-lab) at SDSU. 
+I'm a M.S. student in the Deparment of Electrical Engineering at [South Dakota State University](https://www.sdstate.edu/) working under the supervision of [Mr. Larry Leigh](https://www.sdstate.edu/directory/larry-leigh) and [Mrs. Morakot Kaewmanee](https://www.sdstate.edu/directory/morakot-kaewmanee) . I'm working as a  graduate research assistant in [Image Processing Laboratory](https://www.sdstate.edu/electrical-engineering-and-computer-science/image-processing-lab) at SDSU. 
 
 My research focuses on scientific data analysis and big data management, innovative data visualizations, machine learning, optical radiometric and geometric calibration, cloud based scientific computing, satellite sensors testing, spatial calibration and characterization, optical remote sensing, operational satellite monitoring, and multispectral and hyperspectral satellite missions using Google cloud platform and Amazon web services.
 
