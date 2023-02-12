@@ -11,9 +11,9 @@ title                    : "Padam Bahadur Karki"
 title_separator          : "-"
 name                     : &name "Padam Bahadur Karki"
 description              : &description "M.S. Student in Electrical Engineering"
-url                      : https://padamkarki.github.io
+url                      : https://surajkarki2210.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "surajkarki2210/padamkarki.github.io"
+repository               : "surajkarki2210/surajkarki2210.github.io"
 # teaser                   : "profile.jpeg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
